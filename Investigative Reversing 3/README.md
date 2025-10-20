@@ -1,4 +1,4 @@
-# 🚩 Kumpulan Write-up CTF oleh Yusril-git
+# 🚩 WRITE UP IR 3 PICOCTF
 
 Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan saya dalam menyelesaikan berbagai tantangan Capture The Flag (CTF).
 
