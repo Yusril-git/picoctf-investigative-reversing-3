@@ -9,4 +9,4 @@ Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan say
 ### picoCTF 2019
 
 ####  forensic
-- [Investigative Reversing 3](./Forensik/Investigative-Reversing-3/writeup_ir3.md)
+- [Investigative Reversing 3](./Investigative-Reversing-3/)
