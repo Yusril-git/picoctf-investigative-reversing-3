@@ -10,3 +10,4 @@ Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan say
 
 ####  forensic
 - [Investigative Reversing 3](./Investigative%20Reversing%203/)
+- [Investigative Reversing 4](./Investigative%20Reversing%204/)
