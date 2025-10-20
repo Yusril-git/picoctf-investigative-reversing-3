@@ -12,10 +12,10 @@ Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan say
 
 * **Kategori:** Forensic
 **Deskripsi:** Diberikan sebuah file biner (`mystery`) ...
-    ![Deskripsi Soal](images/1-soal.png)
+  ![Deskripsi Soal](Investigative%20Reversing%203/images/1-soal.png)
 
 * **Analisis:** ...lalu 1 byte disalin biasa.
-    ![Logika di Ghidra](images/2-ghidra.png)
+    ![Logika di Ghidra](Investigative%20Reversing%203/images/2-ghidra.png)
     Analisis pada biner `mystery` menggunakan Ghidra menunjukkan bahwa program ini adalah sebuah **enkoder steganografi**. Ditemukan pola enkripsi LSB (Least Significant Bit) yang unik: setelah 723 byte header, 8 byte gambar digunakan untuk menyembunyikan 1 karakter flag, lalu 1 byte disalin biasa.
 
 * **Solusi:**
@@ -42,8 +42,6 @@ Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan say
 
 * **Flag:**
     `picoCTF{...jalankan skrip untuk mendapatkan flag...}`
-    * **Flag:**
-    `picoCTF{...jalankan skrip untuk mendapatkan flag...}`
-    ![Hasil Skrip](images/3-hasil.png)
+    ![Logika di Ghidra](Investigative%20Reversing%203/images/3-hasil.png)
 
 ---
