@@ -13,7 +13,7 @@ Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan say
 * **Kategori:** Forensic
 **Deskripsi:** Diberikan sebuah file biner (`mystery`) ...
   ![Deskripsi Soal](images/soal.png)
-  ![Deskripsi Soal](image/clue.png)
+  ![Deskripsi Soal](images/clue.png)
 
 * **Analisis:** ...lalu 1 byte disalin biasa.
     ![Logika di Ghidra](images/ghidra.png)
