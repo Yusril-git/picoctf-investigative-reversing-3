@@ -1,0 +1,12 @@
+# 🚩 Kumpulan Write-up CTF oleh Yusril-git
+
+Selamat datang di repositori saya! Di sini saya mendokumentasikan perjalanan saya dalam menyelesaikan berbagai tantangan Capture The Flag (CTF).
+
+---
+
+## Daftar Isi
+
+### picoCTF 2019
+
+####  forensic
+- [Investigative Reversing 3](./Forensik/Investigative-Reversing-3/writeup_ir3.md)
